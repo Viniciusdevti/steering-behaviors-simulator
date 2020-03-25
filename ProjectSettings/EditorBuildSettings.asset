@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 78cfb99cfd7aaef4cb68708216aa4b93
+  - enabled: 1
+    path: Assets/Scenes/EscolhaComportamento.unity
+    guid: f7398e9683d7991448b9bdc7f3f6a288
+  - enabled: 1
+    path: Assets/Scenes/Seek.unity
+    guid: e930a533e2859f54092168490408abd5
+  - enabled: 1
+    path: Assets/Scenes/Flee.unity
+    guid: fd8f65c025e3dc848baf63c0f90ecf7c
+  - enabled: 1
+    path: "Assets/Scenes/Explica\xE7\xE3oSeek.unity"
+    guid: 4dd91a1b974d38d43aaf48c5794b51fd
+  - enabled: 1
+    path: "Assets/Scenes/Explica\xE7\xE3oSeek2.unity"
+    guid: 58366eaef5567b647a27fddf78f58fff
+  - enabled: 1
+    path: "Assets/Scenes/Explica\xE7\xE3oFlee.unity"
+    guid: 2dd358ab28be60848b5515a422e0388c
+  - enabled: 1
+    path: "Assets/Scenes/Explica\xE7\xE3oFlee2.unity"
+    guid: 3e8a56698540410469b0c9e058b188f6
+  m_configObjects: {}
