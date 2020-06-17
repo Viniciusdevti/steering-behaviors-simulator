@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	 Ecoleta <img src="https://img.icons8.com/color/48/000000/recycle-bin.png" width="30px"/>
+	Steering Behaviors Simulator
 </h1>
 
 <p align="center">
