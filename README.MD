@@ -31,6 +31,7 @@ A inteligência artificial (IA) pode ser usada como um fator determinante na ár
 
 * C#  :white_check_mark:
 * Unity 3d  :white_check_mark:
+* Steering behaviors :white_check_mark:
 
 
 
